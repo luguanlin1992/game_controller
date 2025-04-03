@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "c:\Users\admin\CascadeProjects\game_controller\main.py", line 36, in main
+    ready_pos = find_template(frame, read_path)
+                                     ^^^^^^^^^
+NameError: name 'read_path' is not defined. Did you mean: 'ready_path'?
